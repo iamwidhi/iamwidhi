@@ -17,4 +17,4 @@ Frontend   → React · Next.js · TypeScript
 
 **Get in touch**
 
-- 📧 ibwidhi@gmail.cmo
+- 📧 ibwidhi@gmail.com
